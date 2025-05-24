@@ -1,6 +1,6 @@
 import heapq
 
-# 冒牌排序
+# 冒泡排序
 def bubble_sort(nums):
 
     """
